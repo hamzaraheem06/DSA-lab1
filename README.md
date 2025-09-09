@@ -1,3 +1,3 @@
 # DSA-lab1
 
-not very cool data structure and algorithms lab.
+very cool data structure and algorithm labs.
